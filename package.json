@@ -1,0 +1,23 @@
+{
+  "name": "qualquer-nome",
+  "version": "1.0.0",
+  "main": "console.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-sampaio/node-js.git"
+  },
+  "author": "Robert França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-sampaio/node-js/issues"
+  },
+  "homepage": "https://github.com/robert-sampaio/node-js#readme",
+  "keywords": [
+    "learning",
+    "node"
+  ],
+  "description": ""
+}
